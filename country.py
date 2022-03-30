@@ -1,8 +1,4 @@
-# Name: Shenghua He
-# Student number: 251016121
-# Course: CS1026A 002 SU21
-# Instructor: Duff Jones
-# Python file "country.py" description: this file works as a basic class of "catalogue.py".
+
 
 class Country:  # define class name
     # define instance variables
