@@ -1,7 +1,3 @@
-# Name: Shenghua He
-# Student number: 251016121
-# Course: CS1026A 002 SU21
-# Instructor: Duff Jones
 # Python file "catalogue.py" description: this file works as a basic class for "process_updates.py"
 
 # import class Country
